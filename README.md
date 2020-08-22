@@ -10,7 +10,7 @@ This README serves as a set of guidelines for how to use Piazza in a considerate
 1. **Use megathreads where applicable.** If the teaching staff has created a megathread for an assignment, lecture topic, etc, use them! This helps keep Piazza uncluttered, making it easier for TAs to keep track of what questions they need to answer.
 1. **Use tags on posts where applicable.** See above! If the tags are there, use them! It will help you, other students, and TAs find relevant posts.
 1. **Make posts public when possible.** Unless your post has a question that requires you to share personal details or assignment or exam code, answers, or hints, make your post public. If you have the problem, chances are other students will too, and it will save the TAs time to be able to answer the question only once.
-1. **Be respectful. Act like your boss is going to read your posts.** It should really go without saying, but Piazza is not an anonymous, online platform for trolling. If you threaten, denigrate, or are generally rude/disrespectful to your classmates or teaching staff, you are likely breaking your schools honor code and could face disciplinary action.
+1. **Be respectful. Act like your boss is going to read your posts.** It should really go without saying, but Piazza is not an anonymous, online platform for trolling. If you threaten, denigrate, or are generally rude/disrespectful to your classmates or teaching staff, you are likely breaking your school's honor code and could face disciplinary action.
 
 ------------------------
 
